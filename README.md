@@ -1,3 +1,3 @@
 # Bootstrap-Practise
 
-<a href="https://ayushpateldeveloper.github.io/Bootstrap-Practise/index.html"></a>
+[Visit Current Repository Outupt](https://ayushpateldeveloper.github.io/Bootstrap-Practise/)
